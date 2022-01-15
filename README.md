@@ -29,7 +29,7 @@ can be assigned to one profile.
 
 ### Final notes
 Although this project is not under active developement, it can be used as a
-base for an object orientied 3D file format. Also, the Wavefront parser might
+base for an object-orientied 3D file format. Also, the Wavefront parser might
 be useful for other projects.
 
 © 2017 [mhahnFr](https://www.github.com/mhahnFr)
