@@ -1,7 +1,8 @@
 # Welcome to the Object_Converter!
 This repository contains a Java application that can parse 3D-Worlds in the
 Wavefront format as well as in its proper format, called *GWO*. An opened world
-can be written in both file formats.
+can be written in both file formats. It requires a Java runtime environment in
+version 9 or higher.
 
 ## Idea
 The initial idea for this project was to create a file format for 3D-Worlds
